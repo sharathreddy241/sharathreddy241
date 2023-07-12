@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharathreddy241
+- 👋 Hi, I’m Sharath Reddy
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Full Stack Data Science Program on Almabetter
 - 💞️ I’m looking to collaborate on ...
